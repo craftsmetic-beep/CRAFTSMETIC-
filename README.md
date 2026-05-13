@@ -1,5 +1,5 @@
 # CRAFTSMETIC-
-    “Craftsmetic is a creative platform for DIY crafts"<!DOCTYPE html>
+“Craftsmetic is a creative platform for DIY crafts"<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
